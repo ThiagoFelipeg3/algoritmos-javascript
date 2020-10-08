@@ -20,3 +20,11 @@ $ node <nome do arquivo .js onde esta o altogitmo>
 ## Questões de Lógica
 1) Considere a seqüência numérica: 1, 2, 1, 2, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 6, 5, 4, 3, 2, 1, 2,...
 Nessa seqüência qual a posição ocupada pelo numero 50 quando este aparecer pela primeira vez?
+
+2) Algoritmo para verificar CPF incorreto:
+Depois do nome do arquivo passa os numeros dos CPFs:
+
+```
+$ cd <pasta do projeto>
+$ node 2_questao.js 123456789 97563682414 22434456464 43115837100 12345754611
+```
